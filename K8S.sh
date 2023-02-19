@@ -162,3 +162,5 @@ kubectl describe deployment web
 记录发布命令
 --record=ture 
 
+install
+
